@@ -62,7 +62,7 @@ def _extract_docx_text(docx_file: Path) -> str:
         raw = archive.read("word/document.xml")
     root = ET.fromstring(raw)
     ns = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}
-    paragraphs = []
+    paragraphs: list[str] = []
     for paragraph in root.findall(".//w:p", ns):
         fragments = [node.text for node in paragraph.findall(".//w:t", ns) if node.text]
         text = "".join(fragments).strip()
@@ -112,7 +112,7 @@ def convert_docx_to_markdown_chapters(
     now_date = datetime.now().strftime("%Y-%m-%d")
     written_files: list[Path] = []
 
-    for index, (title, body) in enumerate(chapters, start=1):
+    for title, body in chapters:
         level = start_level
         parts = NameParts(level=level, module=module, short_title=title, date=now_date, revision=revision)
         file_name = build_filename(parts)
