@@ -71,7 +71,17 @@
             }
           },
           {
-            "id": "d9f506158bb28bad",
+            "id": "aa1a8f54cd282b57",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+            }
+          },
+          {
+            "id": "460c3cf63022e9ae",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,19 +89,9 @@
               "icon": "layout-grid",
               "title": "Navigator"
             }
-          },
-          {
-            "id": "aa1a8f54cd282b57",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {},
-              "icon": "longform",
-              "title": "Longform"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,9 +204,7 @@
       "cmdr:MCO Word Porting: Crea nuovo capitolo da template": false,
       "mco-word-porting:Porting documento in capitoli": false,
       "obsidian42-brat:BRAT": false,
-      "obsidianaitools:AI Tools": false,
-      "omnisearch:Omnisearch": false,
-      "moc-link-helper:Open MOC Link Helper View": false
+      "obsidianaitools:AI Tools": false
     }
   },
   "active": "04e26fd45f4b1c21",
