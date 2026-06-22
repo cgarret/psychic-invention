@@ -1,0 +1,25 @@
+```
+---
+type: automated-daily
+date: <% tp.date.now("YYYY-MM-DD") %>
+---
+# Daily Log: <% tp.date.now("dddd, MMMM Do, YYYY") %>
+
+## External Integration
+<%*
+// Call your external apiService.js script asynchronously
+let apiData = await tp.user.apiService();
+_value = apiData;
+-%>
+
+## Schedule & Tasks
+<%*
+// Call your external layoutEngine.js script synchronously
+let dynamicLayout = tp.user.layoutEngine();
+_value = dynamicLayout;
+-%>
+
+## Notes
+- 
+```
+

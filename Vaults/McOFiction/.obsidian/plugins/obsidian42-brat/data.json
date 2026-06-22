@@ -1,0 +1,30 @@
+{
+  "pluginList": [
+    "mnaoumov/obsidian-advanced-debug-mode",
+    "UltimateAI-org/aitoolsforobsidian"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "mnaoumov/obsidian-advanced-debug-mode",
+      "version": "",
+      "tokenName": "cgobsidiandebugmode"
+    },
+    {
+      "repo": "UltimateAI-org/aitoolsforobsidian",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "cgultimateai",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

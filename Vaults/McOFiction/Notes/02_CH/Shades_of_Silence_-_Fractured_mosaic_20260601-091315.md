@@ -1,0 +1,215 @@
+[Chapter 1: The Intrusion [1](#chapter-1-the-intrusion)](#chapter-1-the-intrusion)
+
+[Chapter 2: The Boy and the Birds [2](#chapter-2-the-boy-and-the-birds)](#chapter-2-the-boy-and-the-birds)
+
+[Chapter 3: Canvas and Code [3](#chapter-3-canvas-and-code)](#chapter-3-canvas-and-code)
+
+[Chapter 4: Amber Jealousy [4](#chapter-4-amber-jealousy)](#chapter-4-amber-jealousy)
+
+[Chapter 5: Fractured Reflections [6](#chapter-5-fractured-reflections)](#chapter-5-fractured-reflections)
+
+[Chapter 6: Echoes of Silence [8](#chapter-6-echoes-of-silence)](#chapter-6-echoes-of-silence)
+
+## ***Chapter 1: The Intrusion*** 
+
+Mark Mathias Parker sat enveloped in the warm glow of golden lamplight. Crayons and coloring books lay scattered across the small table, a festive array inviting him to explore the magic of childhood dreams. Mark’s hands, shaped by years of meticulous typing, moved with surprising finesse, carefully shading deep indigo into the intricate patterns of a mandala. Each stroke was rendered with intent, infusing the design with a fragile serenity.
+
+The tranquility was underscored by the soft, rhythmic hum of the refrigerator. Its droning blended harmoniously with the gentle scratch of wax against paper, wrapping Mark in a soothing cocoon—a sanctuary from the worries that lingered at the edges of his mind.
+
+Then, the silence fractured.
+
+The unexpected clucking of a chicken outside intruded on his focus. Time seemed to freeze as anxiety seized Mark, his crayon hovering in hesitation. The cheerful yellow cartoon chicken he had been coloring now seemed to mock his distress, transformed into a symbol of his vulnerability. His heartbeat quickened, pounding like an erratic drum in the quiet room. Panic surged through him.
+
+With a force that belied the innocence of his task, he shoved the coloring book away. It skidded across the table, marking the arrival of a cold dread. His gaze darted frantically around the room while, outside the window, a tawny rooster scratched at the earth, oblivious to the emotional storm raging within.
+
+Time stretched. The distant clamor of hens from his past mingled with the echo of his father’s voice—authoritative yet warm—bringing back memories both cherished and painful. The scent of feathers and the earthy aroma of sweat transported him to a childhood marked by innocence, but shadowed by discomfort.
+
+Overwhelmed, Mark sprang to his feet. The small coffee table toppled, its contents scattering across the floor like lost dreams. "No, no," he whispered, his voice barely audible but filled with desperation. He imagined the chicken advancing, its head cocked in innocent curiosity, each cluck amplifying his rising panic.
+
+Driven by instinct, he slammed the window shut. The sharp clash of glass and wood exploded into the stillness. He pounded his fists against the pane, a futile attempt to repel the source of his distress, until finally, the clucking faded into the evening.
+
+"I'm sorry," he gasped into the silence, his breath misting the cold glass. Though the bird was gone, fear lingered. Mark covered his face with trembling hands, sinking to the floor amidst the debris of his evening.
+
+## **Chapter 2: The Boy and the Birds**
+
+Five-year-old Mark crouched on the kitchen floor, teary and clutching his knees. Outside, roosters crowed as dusk fell on their modest middle-class home. The summer air was heavy with a stench that clung to his skin—his father’s cheap beer, spilled on the floor. His father’s voice thundered in the next room, arguing on the phone.
+
+Mark hugged himself. He didn’t cry out. He had learned quickly to be quiet, to make himself small whenever Papa was drunk and angry.Inside the dim kitchen, his small plate of rice and chicken lay mostly untouched. The meat had become a symbol of all that hurt. He remembered the first time Papa had made him eat it: Mark had choked and spit pieces out. Papa had slapped the plate onto the floor, feathers scattering, and yelled something in Thai that sounded worse than bad. He said Mark would grow up weak and useless, like a chicken
+
+The words stung through Mark’s chest even now. A chicken. That name felt like sharp talons ripping at his pride.
+
+Just that afternoon, Mama had called. Mark had pressed his ear against the door.“Nothing’s good enough,” she had cried softly, voice distant. “I can’t stay here.”
+
+Papa had scoffed between hiccups, then hurled a bottle at the wall. Mark watched the glass splinter under his foot before he remembered why he must stay quiet.
+
+He pictured his mother leaving with Mama’s suitcase at sunrise the next day. Mark had been one back then. He had barely walked, barely understood. But he understood loss. In the half-light of dawn, Mama had bent over him and brushed a strand of hair from his forehead. She smelled of jasmine and tears.
+
+“Be brave,” she whispered, planting a kiss on his brow and slipping away.
+
+Papa had thundered into the room after she left. “Did you see that?” Papa shouted, swaying with a bottle in hand. “She just leaves you, idiot!”
+
+Mark, still in a daze of sleep, stuttered that he loved Mama. Papa hurled the bottle. The glass crashed against the wall, red wine seeping like blood into the carpet. Mark yelped and flinched as Papa loomed over him. Papa muttered something about turning Mark into a man. Then he shoved Mark outside on the porch, muttering curses. Mark was frightened into silence.
+
+Later, someone put food on the porch steps. Mark didn’t even think about eating it anymore; he’d learned to fear hunger too.That night, lying in the bed where he used to sleep next to Mama, Mark’s nights were haunted by a yellow, clucking figure. He dreamed of it: a giant chicken with eyes like coal. It waited at his door, beak snapping at him. This would happen whenever he heard the words "Mama left" or "useless." He woke screaming. Papa never came to comfort him, only raged louder.
+
+Mark froze as he remembered the stifled squawk coming from just beyond the fence. He was four, terrified, when Papa had thrown him into the yard with the live fowl, to teach him to confront his fear. A rooster had charged at him, and Mark had stumbled back into a thorn bush, tears and scratches on his cheek. This was his first lesson: chicken equals pain.
+
+The memory dissolved like smoke. Mark opened his eyes and blinked hard in the lamplight of his living room. The mandala’s colors were smeared. He traced a finger across the page. “Be brave,” a child’s voice whispered in his head—a voice that sounded strangely like his own. The room was quiet now; the chicken outside was gone. But a little boy was still there, huddled in the corner of his mind.
+
+## **Chapter 3: Canvas and Code**
+
+Years passed. Mark grew to be a tall, wiry man with startlingly intense eyes. He wore glasses and a perpetual swirl of dark hair, now flecked with strands of gray. Though Thai by birth, Mark had traded his childhood in Thailand for the bustle of this city. At thirty, he found work as a programmer at a small tech firm. Despite his age, he called himself a “junior programmer,” behind the bright name plate on his desk. For Mark, life – middle class, routine, coding day after day – was both sanctuary and cage.
+
+It was at that firm where he met Shaquille Ryan, a young American coder with a mess of dreadlocks and an easy grin. Shaq loved cartoons and coffee, and he didn’t mind Mark’s quirky habit of coloring. One evening after work, Shaq plopped a stack of adult coloring books onto the break table. “Dude, you gotta try this,” he grinned, offering Mark a book filled with intricate mandalas.
+
+Mark raised an eyebrow. “For nerds?”“You could say it’s like therapy,” Shaq laughed. “Keeps your head straight, man.”Skeptical, Mark flipped through pages of detailed patterns: a butterfly, mountains, a peaceful village – chickens and all. He froze at the illustrated hen scratching for feed. Shaq nudged him. “Scared of those?”Mark shot back, heart picking up. “It’s nothing,” he said too quickly, waving off the image. He turned to a picture of a koi pond instead, but his hand hovered uncertainly. Unseen to Shaq, a tiny bead of sweat dotted Mark’s temple.
+
+Shaquille chuckled and grabbed a pack of colored pencils. “Trust me, coloring’s chill,” he said, shading a mandala in calming blues and greens. Mark watched the lines fill in, thinking of code: every stroke controlled, predictable.That
+
+night, the two colored quietly in Mark’s living room as soft jazz played. They talked in between: debugging code, new anime shows, and Shaq’s daughter’s latest antics. Mark started by discussing work, but gradually he felt safer and more normal. For a rare moment, something inside him unclenched.
+
+Across town, Heidi Matthews and Bruce Lyons sat in their own cluttered apartment. Heidi, a spirited software tester with infectious laughter, and Bruce, a mechanic-turned-programmer who loved logic puzzles, had joined them by video chat. They had been late to the call, so Mark and Shaq had started a color-coded Hangman game. Bruce teased Mark about coloring, and Mark found himself smiling despite himself.
+
+Mark was always full of restless energy – the hum of a thousand thoughts at once – and these friends became a safe harbor for him. They built a chosen family in those little jam sessions.
+
+But whenever Mark felt out of place—missing Mama, shaken by a nightmare, or just angry at the world—Shaq, Heidi, or Bruce would gently guide him back. Often, that meant coloring by his side, reassuring him without words. In those moments, Mark felt normal. He could almost believe nothing would harm him again, not even the memories of birds.
+
+Tonight’s coloring session faded into a warm memory, tucked behind anxious thoughts. The mandala on the table was complete, and all four had signed it with their initials. It was beautifully chaotic, a tapestry of laughter and friendship in ink.
+
+Mark gazed at it with fondness. If only life could always be so simple.
+
+## **Chapter 4: Amber Jealousy**
+
+Mark had almost given up on love by the time Dana Goodwin came into his life. She was vivacious and caring, a fellow programmer who had taken a liking to his quiet intensity. Now they sat together in a cozy corner booth of a dimly lit café, the walls painted an autumn shade of amber. Mark watched her with adoring eyes as she laughed at a joke. She brushed her dark hair behind one ear and leaned forward, her eyes warm with affection.
+
+But Mark’s attention kept drifting to a young man at the counter. A tall stranger holding a steaming coffee smiled as Dana passed by on the way to their booth. Mark’s stomach twisted into cold knots when he noticed a small wave exchanged between them. “Is that your friend?” Mark asked softly, his voice tense.
+
+Dana turned. “Oh, that was Carl,” she said lightly. “A guy from my project team. We just bumped into each other here.”
+
+Mark forced a smile. “Nice to know,” he replied quietly. But his jaw clenched under the table. The amber light and cheerful chatter felt suddenly distant. Jealousy dripped in Mark’s veins like acid. Dana frowned. “Is everything okay, Mark?” He nodded mutely, stirring his coffee. Inside, he was a storm of worry: did she prefer someone else? The questions fanged at his mind.
+
+They ate their meal in uneasy silence. Dana tried to change the subject, telling a joke about a glitch in the code. Mark forced a laugh, but it came out hollow. The clack of her fork against the plate felt wrong. Each smile she gave now seemed to mock him, filtered through a lens of doubt. Finally, Dana stood up. She gently squeezed Mark’s hand. “I’ll grab the check, okay? Please, just relax,” she said softly. Mark’s grip tightened reflexively. In the dim light, Dana noticed a hard edge in his eyes she had never seen before. As Dana walked to the counter, Mark’s heart hammered in his chest. Every second stretched into a minute. Fear gripped him: if Dana left his sight, what if she never came back?
+
+When she returned with the bill, Mark decided he had to know the truth. His voice shook when he spoke. “Who was that, Dana? The guy at the counter?” Dana blinked. “Which guy? Carl? I already told you about him.” “No,” Mark hissed, standing up too quickly. “Not Carl. The man with the coffee. What were you talking about?” Dana’s eyes widened. “Oh, Carl. I told you—he just said hi. Nothing important.”
+
+Mark’s vision tunneled. He slammed his fist on the table. “Don’t lie to me!”Dana took a step back, hands up. “Mark, please – I’m not lying. I care about you,” she pleaded. Before she could finish, Mark launched himself across the table. His fist collided with her cheek with a sickening thud. Dana’s body hit the seat behind her, and a drop of blood appeared at the corner of her mouth.
+
+Time seemed to slow. Mark knelt beside her. Dana gasped for breath, one hand pressed to her throbbing cheek. Her eyes filled with terror. “M-Mark… what are you doing…” she whispered.
+
+He pinned her other arm beneath his knee. She sobbed, struggling weakly. Mark leaned over her, voice shaking: “Who else, Dana? Who are you hiding this time?”
+
+Dana’s sobs caught in her throat. “I swear… it’s just you… I love you,” she managed between tears.
+
+Mark’s anger fragmented into pieces. Suddenly, his fingers closed around her neck. Dana’s eyes widened in a silent plea. For an endless moment, Mark stared at the softness of her face, the final fear in her eyes. He realized with horror what he was doing.
+
+Dana’s body went limp under his grasp. Mark’s fingers loosened. He watched, stunned, as Dana slumped in the seat, her head lolling to one side.
+
+The café fell silent around him. Mark stumbled back, heart pounding. He stared at his trembling hands. Then he sank onto the floor, knees hitting the cold tile. In that quiet corner soaked in amber light, the truth crashed over him: he had killed her.
+
+## **Chapter 5: Fractured Reflections**
+
+A week later, Mark was alone in his apartment when the doorbell rang. He wiped a butter knife absently across a slice of bread, eyes unfocused. The morning sun was pale through the curtains, but something about the knock felt heavy.
+
+“Who could that be?” he muttered, setting down the knife. He opened the door to see two women he had not seen in years: Kirsten and Lucy Parker, his half-sisters. Kirsten stood a few inches shorter than Mark, with sharp blue eyes like their late mother’s. Lucy was younger, with a shy smile and dark hair like Mark’s own. They looked nervous.
+
+“Mark?” Kirsten said softly. “Hi, it’s us, Kirsten... and Lucy.” Her voice was gentle but firm. “We know... about Dana.” Her eyes flicked to Mark’s face, searching.
+
+For a moment Mark’s heart raced. Guilt surged like electricity. How much could they possibly know? “What do you mean?” he asked, attempting casual warmth.
+
+Lucy stepped forward. “Dad told us... Dana’s funeral...” She trailed off, tears in her eyes. “We wanted to see you.”
+
+Mark stared at the two women. Everything felt distant, like he was underwater. At his kitchen table, a glass of milk still had the imprint of his palm. “Why?” he whispered. “Why are you here? I’m fine.”
+
+Kirsten exchanged a glance with Lucy. “We’re family,” she said quietly. “We lost dad, and Mom left you too. We... heard things.” Her eyes softened. “We just wanted to talk.” A breath passed between them. Mark could smell Lucy’s shampoo – citrus and something comforting. For a moment he was just in the kitchen with his sisters and it felt normal, except that it felt dangerous, too
+
+Lucy sat down across from Mark. She looked at the bread with the knife. “Mom used to make toast,” she said gently, picking up the knife. “Dad used to butter it.” It was a small, awkward joke. Kirsten took a seat beside Mark.
+
+Mark’s hands trembled around the toast. “It’s not safe here,” he said, more to himself than them. “You shouldn’t have come.”
+
+Lucy’s eyes filled. “Please, Mark... Please, don’t push us away. We care about you.”
+
+Mark’s chest burned. Something inside twisted. Memories of childhood flashed: laughing baby Lucy showing him a toy, Kirsten’s scolding about chores, silence around their parents.
+
+The air turned heavy. Kirsten placed a steady hand on his shoulder. “We’re sorry about all of it. We didn’t get to say goodbye,” she said.
+
+A trembling start of rage bubbled up. “Why would I want you here after everything?” Mark hissed, jerking the tablecloth which sent plates rattling.
+
+Kirsten’s face hardened slightly. “We’re not here to hurt you,” she said calmly. Lucy was already standing now, concern and fear in her wide eyes.
+
+“What are you doing, Mark?” Lucy whispered, stepping closer.
+
+Mark’s vision blurred. Everything was noise: their voices indistinct, sunlight against the window, the tick of the clock. “Get out,” he growled without looking, backing away. “Get out, both of you.”
+
+Lucy quivered. “We just wanted to help... I know about the accident with my daughter...” her voice broke. She meant to say he was asked to babysit, but it came out wrong.
+
+Mark’s breath hitched. Fear twisted to fury. “Your daughter?” he spat out. Realization dawned: she meant Jennifer’s child? But Mark had no daughter. Instead it came out wrong.
+
+Kirsten tried to step forward. “Mark, please –”
+
+He stood too fast, knocking over his chair. Lucy gasped and inadvertently drew a finger down his cheek, desperate to grip something after scrabbling at the table.
+
+A searing pain shot across Mark’s cheek, like a branding. A bright red scratch blossomed on his skin where Lucy’s fingernail had raked it.
+
+Mark’s eyes widened as red bloomed on his face. He staggered back, pressing a hand to his cheek. Lucy screamed softly.
+
+“No!” Mark snarled, his voice trembling on the edge of hysteria. He slammed Lucy’s hands away as she stood up, and in one furious motion he lunged.
+
+Their bodies collided; Kirsten and Lucy screamed. Mark’s hand crashed onto Lucy’s shoulder, pushing her head-first into the edge of the kitchen counter. She cried out, then slumped to the floor.
+
+Kirsten moved quickly, panic in her eyes, lunging at Mark. He spun, grabbing her arm and twisting. Kirsten cried out as Mark wrestled her down onto the table, slamming his hand across her mouth.
+
+“No! Stop it!” Kirsten cried, tears of terror mingling with anger.
+
+Mark’s fingers curved around her throat. Kirsten’s struggles weakened. He could see the betrayal and fear in her eyes, like Lucy’s, as the room spun.
+
+For a moment Mark was beside himself. His cheek still stung — but beneath that was a cold rage. He squeezed until Kirsten’s eyes fluttered shut. The strength drained out of her limbs as Mark heard her final breath.
+
+He stared at their bodies — Lucy unmoving on the floor, and Kirsten’s head slumped on the table. Panic and grief turned his vision red. Stumbling backward, Mark pressed his hand again to his bloodied cheek, feeling the sticky warmth and cloth. “No, no, no…” he muttered, voice breaking. The girls groaned faintly from the floor; they were alive, but any minute they might not be.
+
+Mark backed out the door, tears blurring his vision. In the street sunlight, he saw his reflection in a window and a jagged scar stretching from ear to chin. His face looked wild, smeared with streaks of morning light.
+
+A choking realization was ripping through him. He had done it again – hurt them, killed them, and driven away the only family he had left. In the quiet of the neighborhood, only the distant sirens answered.
+
+## **Chapter 6: Echoes of Silence**
+
+Autumn faded into winter. At sixty-one, Mark moved through his days like a hollow man. He found a calm sort of cruelty in routine: coloring, coding, jogging at dawn. Sometimes he would call Shaquille Ryan and chat about nonsense — the colors he was filling in, or strange dreams. Shaq, ever patient, kept the fragile friendship alive.
+
+A few months after the sisters, Mark had met Jennifer Lyra Rowe at a conference, a fellow programmer who reminded him of better days. Jennifer was gentle and empathetic; she saw the pain behind Mark’s eyes without judgment. For a while, Mark convinced himself he could finally move on.
+
+But the past had other plans. Late one evening, Jennifer found Mark rocking on the kitchen floor, staring at his cracked reflection in the fridge. The kitchen was lit only by the pale glow of a refrigerator light. The memory of Lucy’s scratch on his cheek still stung. Mark’s hands were coated in chocolate from nervously biting his fingers.
+
+“What is it?” Jennifer asked softly. Mark couldn’t explain; his throat had closed up. When Jennifer reached out to touch his face, Mark flinched away. Jennifer’s hand brushed against the long jagged scar along his cheek.
+
+“Mark… what happened to you?” she whispered. The question hung in the air.
+
+He said nothing. Silence grew between them like a gulf. Jennifer finally spoke, trembling, “I’m scared of you now.” His chest twisted painfully at her words.
+
+Jennifer slipped on her coat and walked to the door. “I’m sorry,” she said quietly before stepping out into the night. Mark didn’t move. The engine of her car roared up in the driveway and then drove off into the dark.
+
+The apartment fell utterly silent. Jennifer was gone, leaving Mark alone in the cold. Shaq called that night to check in; Mark was distant and insisted he was fine. After that call, Shaq never pressed again.
+
+In the coming months, news came of Heidi and Bruce. Heidi Matthews — the kind-hearted software tester — had collapsed suddenly at home. Mark heard the words quietly through a friend: stroke. In a daze, he later attended Heidi’s funeral. He found an old coloring pencil she had carried and kept in her pocket; he held it now like a lifeline. Bruce Lyons had died six months earlier — a tragic accident, they said.
+
+One night after dinner, Mark sat alone with an adult coloring book and fresh pencils. Only one friend remained: Shaq. It was past midnight when Mark finally dialed.
+
+“Shaq,” Mark’s voice cracked into the phone. The silence on the other end sounded like an answer.
+
+“Mark? What’s wrong?” Shaq asked, concerned.
+
+Mark closed his eyes. “It’s everything,” he whispered. “I’m sorry, man.”
+
+“What do you mean?” Shaq pressed gently.
+
+“They’re all gone,” Mark managed in a hoarse whisper. “Not a single one of them is left.”
+
+When morning came, Mark lay in bed exhausted. Above him the ceiling fan spun slowly, its motion casting shifting shadows on the walls. In each rotation, the blades seemed to twist into shapes he recognized: the outline of a chicken, or sometimes feathers drifting through the air. His heart thudded.
+
+Without warning, a faint cackle, like a child’s laughter mixed with clucking, echoed in the apartment. Mark jolted upright, eyes wild. The far wall was suddenly illuminated by the rising sun.
+
+He crept toward the window with trembling hands. Outside in the neighbor’s yard, a chicken wandered over the lawn. It stopped and glanced up at Mark. His breath caught in his throat. The world felt unreal, as if the tiny bird could see into his shattered mind.
+
+Mark pressed his forehead against the cold glass. The neighbor’s chicken pecked the ground, oblivious. Mark’s heart raced. The sight of the ordinary creature invoked the deepest terror inside him.
+
+In the quiet winter light, Mark’s reflection stared back, haunted and scarred. He realized, with a growing calm, how utterly alone he was now.
+
+The bathroom mirror awaited upstairs, and Mark stood up with slow, steady steps, absolutely still.

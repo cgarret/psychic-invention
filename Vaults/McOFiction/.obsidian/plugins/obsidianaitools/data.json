@@ -1,0 +1,56 @@
+{
+  "claude": {
+    "id": "claude-code-acp",
+    "displayName": "Claude Agent",
+    "command": "",
+    "args": [],
+    "env": []
+  },
+  "codex": {
+    "id": "codex-acp",
+    "displayName": "Codex",
+    "command": "",
+    "args": [],
+    "env": []
+  },
+  "gemini": {
+    "id": "gemini-cli",
+    "displayName": "Gemini CLI",
+    "command": "",
+    "args": [
+      "--experimental-acp"
+    ],
+    "env": []
+  },
+  "customAgents": [],
+  "activeAgentId": "claude-code-acp",
+  "autoAllowPermissions": false,
+  "autoMentionActiveNote": true,
+  "debugMode": false,
+  "nodePath": "C:\\Apps\\node\\node-v16.18.0-win-x64\\node.exe",
+  "exportSettings": {
+    "defaultFolder": "AI Tools",
+    "filenameTemplate": "agent_client_{date}_{time}",
+    "autoExportOnNewChat": false,
+    "autoExportOnCloseChat": false,
+    "openFileAfterExport": true,
+    "includeImages": true,
+    "imageLocation": "obsidian",
+    "imageCustomFolder": "AI Tools"
+  },
+  "windowsWslMode": false,
+  "sendMessageShortcut": "enter",
+  "displaySettings": {
+    "autoCollapseDiffs": false,
+    "diffCollapseThreshold": 10,
+    "maxNoteLength": 10000,
+    "maxSelectionLength": 10000
+  },
+  "savedSessions": [],
+  "hasCompletedOnboarding": false,
+  "lastSeenPluginVersion": "0.9.1",
+  "compatWarningDismissed": {},
+  "apiKey": "",
+  "baseUrl": "https://chat.obsidianaitools.com",
+  "model": "MiniMax-M2.1"
+}

@@ -1,0 +1,351 @@
+{
+  "main": {
+    "id": "371023acb70e0f65",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ee16be05ed95d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fb6ebd99ff24bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            },
+            "group": "e47381171c3849b5"
+          },
+          {
+            "id": "bb844548953523e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOC- HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC- HOME"
+            }
+          },
+          {
+            "id": "2fb3ce6e694e7c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES_BOX/MOC Tech Topic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC Tech Topic"
+            }
+          },
+          {
+            "id": "d9b08460af25873b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/You said  Pick Best Obsidian tutorial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "You said  Pick Best Obsidian tutorial"
+            }
+          },
+          {
+            "id": "da17bdab0df151ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Lumo Privacy-first AI assistant where chats stay confidential.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lumo Privacy-first AI assistant where chats stay confidential"
+            }
+          },
+          {
+            "id": "bbe1a5dfaf1a9edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Lumo Privacy-first AI assistant where chats stay confidential 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lumo Privacy-first AI assistant where chats stay confidential 2"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "d084c1b347b89fc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcec4a93572287c9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.0078125,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "e47381171c3849b5"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7ac8e9511c0d48b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d54219ba961fdeca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65385d9dead58c0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1630f976a9eabb1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "backl",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62528a1ed9c395f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "8c90b27e399cd269",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ded3291eb9d7ec75",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c1725fcc369060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56f214ba6d34ae31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "80a1e35d595c47b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "4afd6e6b03a5facf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "39bbd360787da217",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9e52768493063054",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bbe1a5dfaf1a9edd",
+  "lastOpenFiles": [
+    "Clippings/Lumo Privacy-first AI assistant where chats stay confidential 1.md",
+    "Clippings/Lumo Privacy-first AI assistant where chats stay confidential 2.md",
+    "NOTES_BOX/Building a self-healing DNS security stack that combines Quad9's threat intelligence.md",
+    "Clippings/Lumo Privacy-first AI assistant where chats stay confidential.md",
+    "Clippings/You said  Pick Best Obsidian tutorial 1.md",
+    "NOTES_BOX/ An introductory guide to Obsidian/2. Leverage Core Features (No Plugins Needed).md",
+    "NOTES_BOX/The Creative Writing Workspace/Index.md",
+    "NOTES_BOX/The Creative Writing Workspace",
+    "NOTES_BOX/The Creative Writing Workspace Setup",
+    "NOTES_BOX/ An introductory guide to Obsidian/1. The Folder Foundation (The Spine).md",
+    "NOTES_BOX/1. The Folder Foundation (The Spine).md",
+    "NOTES_BOX/ An introductory guide to Obsidian/Index.md",
+    "NOTES_BOX/ An introductory guide to Obsidian",
+    "Clippings/You said  Pick Best Obsidian tutorial.md",
+    "test_obsidian_docx_converter.py",
+    "obsidian_docx_converter.py",
+    "MOC- HOME.md",
+    "Vaults/master-pi",
+    "Vaults/New folder",
+    "Vaults",
+    "New folder",
+    "NOTES_BOX/MOC Tech Topic.md",
+    "Clippings",
+    "NOTES_BOX/MOC Articles.md",
+    "README.md",
+    "Welcome.md",
+    "MOC_Home.md",
+    "02 - Chapter Name.md",
+    "_Attachments/2026-06-05.png",
+    "Books/La Nebbia Dentro/00 - Index.md",
+    "MOC_Narrativa.md",
+    "BOX_NOTE/Gemini.md",
+    "Books/La Nebbia Dentro/05 - Capitolo V – Le stagioni del ritorno.md",
+    "Books/La Nebbia Dentro/07 - Capitolo VII – La luce dentro.md",
+    "AGENTS.md",
+    "Books/La Nebbia Dentro/00 - Sinossi.md",
+    "_templates/Index Template.md"
+  ]
+}

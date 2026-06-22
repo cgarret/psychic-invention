@@ -1,0 +1,10 @@
+{
+  "id": "mco-word-porting",
+  "name": "MCO Word Porting",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Trigger split_chapters.ps1 from Obsidian with form inputs, ribbon/menu actions, and optional automatic mode.",
+  "author": "MCO",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}

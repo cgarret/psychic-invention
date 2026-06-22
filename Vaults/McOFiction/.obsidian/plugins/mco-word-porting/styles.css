@@ -1,0 +1,80 @@
+.mco-porting-modal {
+  --mco-bg-soft: linear-gradient(135deg, #f3efe4 0%, #efe8d5 45%, #f9f4e8 100%);
+  --mco-text-main: #1f2937;
+  --mco-text-soft: #5b4f41;
+  --mco-accent: #b45309;
+  --mco-accent-2: #7c2d12;
+}
+
+.mco-porting-modal .modal-title {
+  color: var(--mco-text-main);
+  font-size: 1.35rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.mco-porting-modal .mco-porting-shell {
+  background: var(--mco-bg-soft);
+  border: 1px solid rgba(124, 45, 18, 0.18);
+  border-radius: 14px;
+  padding: 16px;
+}
+
+.mco-porting-modal .mco-porting-desc {
+  margin: 0 0 12px 0;
+  color: var(--mco-text-soft);
+  line-height: 1.4;
+}
+
+.mco-porting-modal .mco-porting-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+
+.mco-porting-modal .mco-porting-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.mco-porting-modal .mco-porting-label {
+  color: var(--mco-text-main);
+  font-weight: 600;
+}
+
+.mco-porting-modal .mco-porting-input {
+  border: 1px solid rgba(124, 45, 18, 0.25);
+  border-radius: 10px;
+  padding: 8px 10px;
+  background: rgba(255, 255, 255, 0.78);
+}
+
+.mco-porting-modal .mco-porting-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.mco-porting-modal .mco-porting-actions {
+  margin-top: 14px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.mco-porting-modal .mco-porting-submit {
+  background: linear-gradient(135deg, var(--mco-accent), var(--mco-accent-2));
+  color: #fff;
+  border: 0;
+  border-radius: 10px;
+  padding: 8px 14px;
+  font-weight: 600;
+}
+
+@media (max-width: 640px) {
+  .mco-porting-modal .mco-porting-shell {
+    padding: 12px;
+  }
+}

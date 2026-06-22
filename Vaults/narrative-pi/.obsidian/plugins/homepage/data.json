@@ -1,0 +1,28 @@
+{
+  "version": 4,
+  "homepages": {
+    "Main Homepage": {
+      "value": "MOC Home ",
+      "kind": "File",
+      "openOnStartup": true,
+      "openMode": "Replace last note",
+      "manualOpenMode": "Replace last note",
+      "view": "Editing view (Source)",
+      "revertView": true,
+      "openWhenEmpty": true,
+      "refreshDataview": true,
+      "autoCreate": true,
+      "autoScroll": true,
+      "pin": true,
+      "commands": [
+        {
+          "id": "theme:toggle-light-dark",
+          "period": "Both"
+        }
+      ],
+      "alwaysApply": true,
+      "hideReleaseNotes": false
+    }
+  },
+  "separateMobile": false
+}

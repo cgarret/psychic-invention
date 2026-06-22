@@ -1,0 +1,25 @@
+views:
+  - type: table
+    name: BookChapters
+    filters:
+      and:
+        - level == "02"
+        - and:
+            - module == "CH"
+    groupBy:
+      property: book
+      direction: ASC
+    sort:
+      - property: chapter_number
+        direction: ASC
+  - type: cards
+    name: Book
+    filters:
+      and:
+        - level == "02"
+        - module == "CH"
+    sort:
+      - property: chapter_number
+        direction: ASC
+  - type: cards
+    name: View 2

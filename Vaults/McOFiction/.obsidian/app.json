@@ -1,0 +1,11 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes/Clipped",
+  "openBehavior": "file:Home MOC",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "99.Attachments",
+  "newLinkFormat": "absolute",
+  "readableLineLength": false,
+  "useMarkdownLinks": true
+}

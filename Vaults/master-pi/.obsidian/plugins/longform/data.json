@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "NOTES_BOX/The Creative Writing Workspace/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2026-06-12T11:59:58.262Z",
+      "total": 0,
+      "drafts": {
+        "NOTES_BOX/The Creative Writing Workspace/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "NOTES_BOX/ An introductory guide to Obsidian/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1. The Folder Foundation (The Spine)": 0,
+            "2. Leverage Core Features (No Plugins Needed)": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-06-11T04:12:02.593Z",
+      "total": 0,
+      "drafts": {
+        "NOTES_BOX/The Creative Writing Workspace/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "NOTES_BOX/ An introductory guide to Obsidian/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1. The Folder Foundation (The Spine)": 0,
+            "2. Leverage Core Features (No Plugins Needed)": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-06-09T00:56:57.739Z",
+      "total": 158,
+      "drafts": {
+        "NOTES_BOX/ An introductory guide to Obsidian/Index.md": {
+          "total": 158,
+          "scenes": {
+            "1. The Folder Foundation (The Spine)": 62,
+            "2. Leverage Core Features (No Plugins Needed)": 96
+          }
+        },
+        "NOTES_BOX/The Creative Writing Workspace/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": true,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

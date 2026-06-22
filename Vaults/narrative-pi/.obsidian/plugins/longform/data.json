@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": null,
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2026-06-10T23:00:31.512Z",
+      "total": 0,
+      "drafts": {
+        "Vaults/master-pi/NOTES_BOX/ An introductory guide to Obsidian/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1. The Folder Foundation (The Spine)": 0,
+            "2. Leverage Core Features (No Plugins Needed)": 0
+          }
+        },
+        "Vaults/master-pi/NOTES_BOX/The Creative Writing Workspace/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2026-06-09T22:23:56.566Z",
+      "total": 0,
+      "drafts": {
+        "Vaults/master-pi/NOTES_BOX/The Creative Writing Workspace/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Vaults/master-pi/NOTES_BOX/ An introductory guide to Obsidian/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1. The Folder Foundation (The Spine)": 0,
+            "2. Leverage Core Features (No Plugins Needed)": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-06-09T18:18:04.496Z",
+      "total": 0,
+      "drafts": {
+        "Vaults/master-pi/NOTES_BOX/The Creative Writing Workspace/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Vaults/master-pi/NOTES_BOX/ An introductory guide to Obsidian/Index.md": {
+          "total": 0,
+          "scenes": {
+            "1. The Folder Foundation (The Spine)": 0,
+            "2. Leverage Core Features (No Plugins Needed)": 0
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

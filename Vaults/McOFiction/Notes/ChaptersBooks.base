@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: chapters_books
+    sort:
+      - property: file.name
+        direction: DESC

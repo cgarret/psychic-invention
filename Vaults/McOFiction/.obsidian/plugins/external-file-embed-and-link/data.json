@@ -1,0 +1,30 @@
+{
+  "dragWithCtrl": "default",
+  "dragWithShift": "InlineLinkRelativeToHome",
+  "dragWithCtrlShift": "EmbedRelativeToHome",
+  "enableDragAndDrop": true,
+  "virtualDirectories": {
+    "scripts": {
+      "207f158f-1bbb-4f32-a030-2ce88298d846": {
+        "path": "C:\\Users\\cicit\\OneDrive\\live_cornmeal982\\OneDrive\\Documents\\Vaults\\congenial-octo-obsidian-moc\\scripts"
+      }
+    },
+    "assets": {
+      "207f158f-1bbb-4f32-a030-2ce88298d846": {
+        "path": "C:\\Users\\cicit\\OneDrive\\live_cornmeal982\\OneDrive\\Documents\\Vaults\\congenial-octo-obsidian-moc\\assets"
+      }
+    },
+    "narrativevault": {
+      "207f158f-1bbb-4f32-a030-2ce88298d846": {
+        "path": "C:\\Users\\cicit\\OneDrive\\live_cornmeal982\\OneDrive\\Documents\\Vaults\\congenial-octo-obsidian-moc\\Vaults\\McOFiction"
+      }
+    }
+  },
+  "devices": {
+    "207f158f-1bbb-4f32-a030-2ce88298d846": {
+      "uuid": "207f158f-1bbb-4f32-a030-2ce88298d846",
+      "name": "DESKTOP-1U75EJC",
+      "os": "win32"
+    }
+  }
+}

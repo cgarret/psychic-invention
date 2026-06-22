@@ -1,0 +1,32 @@
+{
+  "SourceFile": "assets/Shades of Silence - Fractured mosaic.docx",
+  "DestDir": "Notes/02_CH",
+  "BookTitle": "Shades of Silence - Fractured mosaic",
+  "ChapterNumberPadding": 2,
+  "ParagraphNumberPadding": 2,
+  "SplitParagraphs": "false",
+  "SplitParagraphsForEditingTemplates": false,
+  "ChapterHeaderPattern": "(?mi)^(?:#{1,6}\\s+)?\\*{0,3}\\s*(?:Chapter|Capitolo)\\s+(\\d+)\\s*[:\\.-]?\\s*(.*?)\\s*\\*{0,3}\\s*$",
+  "ChapterSplitPattern": "(?mi)(?=^(?:#{1,6}\\s+)?\\*{0,3}\\s*(?:Chapter|Capitolo)\\s+\\d+\\b)",
+  "NoIndex": false,
+  "ChapterLevel": "02",
+  "ChapterModule": "CH",
+  "NamingDate": "now",
+  "RevisionNumber": 0,
+  "SourceDocumentTitle": "Shades of Silence - Fractured mosaic",
+  "IncludeFrontmatter": "true",
+  "FrontmatterTags": [
+    "imported",
+    "chapter",
+    "mcofiction"
+  ],
+  "AutoConvertWord": "true",
+  "PandocCommand": "pandoc",
+  "ConvertedMarkdownDirectory": "",
+  "KeepConvertedMarkdown": "false",
+  "MoveConvertedChaptersToVault": "false",
+  "VaultChapterDestination": "Notes/02_CH",
+  "EnablePostProcessing": "true",
+  "UseChapterTemplate": "true",
+  "ChapterTemplatePath": "Vaults/McOFiction/Templates/Chapter Template - Fast Drafting Minimal.md"
+}

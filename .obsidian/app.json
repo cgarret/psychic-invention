@@ -1,8 +1,0 @@
-{
-  "openBehavior": "file:Welcome",
-  "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "BOX_NOTE",
-  "newLinkFormat": "absolute"
-}

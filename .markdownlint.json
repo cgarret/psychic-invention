@@ -1,0 +1,36 @@
+{
+    "default": true,
+    "editor.someSetting": true,
+    "markdownlint.config": {
+        "MD003": {
+            "style": "setext"
+        },
+        "MD007": {
+            "indent": 4
+        },
+        "MD013": {
+            "line_length": 120,
+            "code-blocks": false,
+            "tables": false
+        },
+        "MD025": {
+            "level": 1
+        },
+        "no-hard-tabs": false,
+        "MD022": {
+            "lines_above": 1,
+            "lines_below": 1
+        },
+        "MD033": {
+            "allowed_elements": [
+                "kbd",
+                "br",
+                "details",
+                "summary"
+            ]
+        },
+        "MD041": {
+            "level": 1
+        }
+    }
+}

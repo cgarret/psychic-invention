@@ -1,0 +1,56 @@
+{
+  "bases:add-item": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "I"
+    }
+  ],
+  "bases:add-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "A"
+    }
+  ],
+  "bases:insert": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "I"
+    }
+  ],
+  "bases:change-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "V"
+    }
+  ],
+  "bases:new-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "N"
+    }
+  ],
+  "bases:copy-table": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "C"
+    }
+  ]
+}

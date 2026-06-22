@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Test"
+		},
+		{
+			"path": "Vaults/master-pi/.obsidian"
+		},
+		{
+			"path": "Vaults/master-pi/.venv"
+		},
+		{
+			"path": "Vaults/master-pi/__pycache__"
+		},
+		{
+			"path": "Vaults/master-pi/ATTACHMENTS BOX"
+		},
+		{
+			"path": "Vaults/master-pi/Clippings"
+		},
+		{
+			"path": "Vaults/master-pi/NOTES_BOX"
+		},
+		{
+			"path": "Vaults/master-pi/Test"
+		}
+	],
+	"settings": {
+		"vsobsidian.vaultLocation": "C:\\App\\Obsidian\\Vaults\\psychic-invention"
+	}
+}

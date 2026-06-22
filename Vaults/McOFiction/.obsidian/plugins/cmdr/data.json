@@ -1,0 +1,55 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "mco-word-porting:mco-word-porting-run",
+      "icon": "lucide-scissors",
+      "name": "MCO Word Porting: Avvia porting documento (split chapters)",
+      "mode": "any"
+    },
+    {
+      "id": "mco-word-porting:mco-word-porting-new-chapter-from-template",
+      "icon": "lucide-file-plus-2",
+      "name": "MCO Word Porting: Crea nuovo capitolo da template",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "external-file-embed-and-link:add-external-embed",
+      "icon": "lucide-a-arrow-up",
+      "name": "External File Embed and Link: Add external embed",
+      "mode": "any"
+    },
+    {
+      "id": "external-file-embed-and-link:add-external-inline-link",
+      "icon": "lucide-air-vent",
+      "name": "External File Embed and Link: Add external inline link",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

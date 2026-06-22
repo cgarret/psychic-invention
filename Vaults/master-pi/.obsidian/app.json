@@ -1,0 +1,9 @@
+{
+  "openBehavior": "file:MOC_Home",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "NOTES_BOX",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "ATTACHMENTS BOX"
+}

@@ -1,0 +1,53 @@
+---
+type: dynamic-daily
+created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+---
+<%*
+// 1. Define standard file layout variables
+let fileDate = tp.date.now("YYYY-MM-DD");
+let baseName = `${fileDate} Daily Log`;
+
+// 2. Compute dynamic folder paths via external script arguments
+// Syntax: tp.user.scriptName(arg1, arg2, arg3)
+let routingData = tp.user.routerEngine(baseName, "Personal/Archive", "Work/Logs");
+
+// 3. Physically rename and move the file
+await tp.file.rename(baseName);
+await tp.file.move(routingData.fullPath);
+-%>
+# Daily Operations: <% baseName %>
+**Destination Folder:** `_vault/<% routingData.folder %>`
+
+## 🗓️ High-Priority Tasks (Live API Pull)
+<%*
+// Call the authenticated Todoist task collector
+let liveTasks = await tp.user.todoistService();
+_value = liveTasks;
+-%>
+
+## 🛠️ Dynamic Context Layout
+<%*
+// Display specific blocks depending on the folder route chosen
+if (routingData.folder.includes("Work")) {
+    tR += "### 💼 Professional Goals\n- [ ] Review sprint metrics\n- [ ] Sync with development team";
+} else {
+    tR += "### 🏡 Personal Goals\n- [ ] Physical exercise / Gym session\n- [ ] Family dinner preparation";
+}
+-%>
+
+## 🗓️ High-Priority Tasks (Live API Pull)
+<%*
+// Call the updated script with error handling built-in
+let liveTasks = await tp.user.todoistService();
+
+// Check if the script returned a failure or offline state to append a notice
+if (liveTasks.includes("🔴") || liveTasks.includes("⏳") || liveTasks.includes("⚠️")) {
+    tR += "> [!WARNING] External Integrations Failed\n> Your local fallbacks have been loaded automatically.\n\n" + liveTasks;
+} else {
+    tR += liveTasks;
+}
+-%>
+
+
+## 📝 General Logs
+-
