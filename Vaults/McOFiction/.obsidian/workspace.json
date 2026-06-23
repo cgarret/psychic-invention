@@ -81,7 +81,7 @@
             }
           },
           {
-            "id": "460c3cf63022e9ae",
+            "id": "94101526aa101098",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -188,6 +188,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "moc-link-helper:Open MOC Link Helper View": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
