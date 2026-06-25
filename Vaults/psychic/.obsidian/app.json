@@ -1,1 +1,16 @@
-{}
+{
+  "showUnsupportedFiles": true,
+  "openBehavior": "file:Startpage",
+  "strictLineBreaks": true,
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "tabSize": 4,
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "BOX/NOTES",
+  "attachmentFolderPath": "BOX/ATTACHMENTS",
+  "uriCallbacks": true,
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "rightToLeft": false
+}

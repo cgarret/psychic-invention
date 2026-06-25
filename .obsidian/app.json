@@ -1,0 +1,14 @@
+{
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "rightToLeft": false,
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "BOXOUT/NOTES",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true,
+  "attachmentFolderPath": "BOXOUT/ATTACHMENTS",
+  "newLinkFormat": "absolute"
+}

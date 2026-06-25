@@ -1,0 +1,5 @@
+{
+  "format": "YYYY/MM/DD_{{author}}_DN_YYYYMMDD",
+  "folder": "BOXOUT/DAILY",
+  "template": "SYSTEM/TEMPLATES/DAILY"
+}
